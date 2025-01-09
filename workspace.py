@@ -31,5 +31,5 @@
 # for x in range(0, 3): # 0 indexing, starts at 0, ends with 2
 #     print(f"Now we're on {x}")
 
-for a in range(0, 3):
-    print(a)
+for x in range(3, -1, -1):
+    print(x)
